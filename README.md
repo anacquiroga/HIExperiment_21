@@ -41,5 +41,5 @@ The experimental treatments consist of different types of information for health
 ### Publications
 Some of the results of this experiment have been published in:
 
-Quiroga Gutierrez, Ana Cecilia; Boes, Stefan (2024): Bridging the gap: Experimental evidence on information provision and health insurance choices. In Health Economics. DOI: 10.1002/hec.4820.
+1. Quiroga Gutierrez, Ana Cecilia; Boes, Stefan (2024): Bridging the gap: Experimental evidence on information provision and health insurance choices. In Health Economics. DOI: 10.1002/hec.4820.
 
