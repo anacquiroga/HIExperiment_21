@@ -26,3 +26,20 @@ The experimental treatments consist of different types of information for health
 | Limited attention+ unqualified information + button for numerical information (2) | Going through rounds with distraction, unqualified information, and the option of paying for more specific information or recommendations using numerical information | Positive – moderate effect improving health insurance choice (++) |
 | Limited attention + unqualified information + button for “graphical information” (3) | Going through rounds with distraction, unqualified information, and the option of paying for more specific information or recommendations using graphical representations of information | Positive – moderate effect improving health insurance choice (+++) |
 | Limited attention + unqualified information + choice of receiving numerical or graphical information (4) | Going through rounds with distraction, unqualified information, and the option of paying for more specific information in either numerical or graphical format | Positive – moderate effect improving health insurance choice (+++) |
+
+### References 
+1. De Pietro C, Camenzind P, Sturny I, et al. Health Systems in Transition. Switzerland Health system review. Vol. 17 No. 4 2015, [http://www.euro.who.int/__data/assets/pdf_file/0010/293689/Switzerland-HiT.pdf?ua=1](http://www.euro.who.int/__data/assets/pdf_file/0010/293689/Switzerland-HiT.pdf?ua=1) (2015, accessed 28 March 2018).
+2. Bhargava S, Loewenstein G, Sydnor J. Choose to Lose: Health Plan Choices from a Menu with Dominated Option. Q J Econ 2017; 132: 1319–1372.
+3. Bhargava S, Loewenstein G. Choosing a Health Insurance Plan: Complexity and Consequences. JAMA 2015; 314: 2505–2506.
+4. Kaufmann C, Muller T, Boes S. Does personalized information improve health plan choices when individuals are distracted?
+5. Schram A, Sonnemans J. How individuals choose health insurance: An experimental analysis. Eur Econ Rev 2011; 55: 799–819.
+6. Adepoju O, Mask A, McLeod A. Factors Associated With Health Insurance Literacy: Proficiency in Finding, Selecting, and Making Appropriate Decisions. J Healthc Manag 2019; 64: 79.
+7. Handel BR, Kolstad JT. Health Insurance for ‘Humans’: Information Frictions, Plan Choice, and Consumer Welfare. Am Econ Rev 2013; 105: 2449–2500.
+8. Kairies-Schwarz N, Kokot J, Vomhof M, et al. Health insurance choice and risk preferences under cumulative prospect theory – an experiment. J Econ Behav Organ 2017; 137: 374–397.
+9. Chen DL, Schonger M, Wickens C. oTree—An open-source platform for laboratory, online, and field experiments. J Behav Exp Finance 2016; 9: 88–97.
+
+### Publications
+Some of the results of this experiment have been published in:
+
+Quiroga Gutierrez, Ana Cecilia; Boes, Stefan (2024): Bridging the gap: Experimental evidence on information provision and health insurance choices. In Health Economics. DOI: 10.1002/hec.4820.
+
