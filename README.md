@@ -1,4 +1,4 @@
-# HealthInsurance
+# Health Insurance Experiment
 
 ## About the project
 ### Background
